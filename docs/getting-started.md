@@ -1,9 +1,6 @@
-# Getting started
+# 更新历史
 
-Material for MkDocs is a powerful documentation framework on top of [MkDocs],
-a static site generator for project documentation.[^1] If you're familiar with
-Python, you can install Material for MkDocs with [`pip`][pip], the Python
-package manager. If not, we recommend using [`docker`][docker].
+最新更新时间：2023.10.07
 
   [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
